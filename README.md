@@ -8,7 +8,7 @@ and devices.
 
 ### Education 🎓
 ✅ Courses I have taken thus far:
-  - `AP Compsci A` (2024-2025)
+  - `AP Computer Science A` (2024-2025)
 
 ⏳ Ongoing:
   - `MOOCs` related to VLSI, and CMOS fabrication.
