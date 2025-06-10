@@ -2,20 +2,20 @@
 
 ### About Me 📖
 
-Hey! I'm Evan, I am a rising highschool sophomore (as of June 2025).
+Hey! I'm `Evan`, I am a rising highschool sophomore (as of June 2025).
 I'm currently dedicated to concepts in computer engineering, and semiconductor physics
 and devices.
 
 ### Education 🎓
 ✅ Courses I have taken thus far:
-  - AP Compsci A (2024-2025)
+  - `AP Compsci A` (2024-2025)
 
 ⏳ Ongoing:
-  - MOOCs related to VLSI, and CMOS fabrication.
+  - `MOOCs` related to VLSI, and CMOS fabrication.
 
 📆 Upcoming:
-  - Discrete Structures (Fall 2025)
-  - Data Structures (Spring 2026)
+  - `Discrete Structures` (Fall 2025)
+  - `Data Structures` (Spring 2026)
 
 ### Notable repos 💻
 - [**SimGDS**](https://github.com/evanliu-at-icstudents/simgds) -
