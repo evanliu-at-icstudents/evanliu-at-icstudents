@@ -25,6 +25,11 @@ Upcoming:
 
 ### Contact Info 💬
 ✉️ personal.evanliu@gmail.com
+
+### My top 3 skibidigmas 😼
+🥇 @scriptwriter101  
+🥈 @jaynouMa  
+🥉 @tikkikkit21  
 <!--
 **evanliu-at-icstudents/evanliu-at-icstudents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
