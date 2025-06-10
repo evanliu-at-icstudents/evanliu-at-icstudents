@@ -7,13 +7,13 @@ I'm currently dedicated to concepts in computer engineering, and semiconductor p
 and devices.
 
 ### Education 🎓
-Courses I have taken thus far:
+✅ Courses I have taken thus far:
   - AP Compsci A (2024-2025)
 
-Ongoing:
+⏳ Ongoing:
   - MOOCs related to VLSI, and CMOS fabrication.
 
-Upcoming:
+📆 Upcoming:
   - Discrete Structures (Fall 2025)
   - Data Structures (Spring 2026)
 
