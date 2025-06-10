@@ -19,7 +19,7 @@ and devices.
 
 ### Notable repos 💻
 - [**SimGDS**](https://github.com/evanliu-at-icstudents/simgds) -
-  _Recreation of a fundamental part of the LVS process_
+  _Recreation of a core part of the LVS verification process_
 - [**AP Hug Wordle**](https://github.com/evanliu-at-icstudents/aphugwordle) -
   _AP Human Geography final project_
 
