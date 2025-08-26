@@ -2,7 +2,7 @@
 
 ### About Me 📖
 
-Hey! I'm `Evan`, I am a rising highschool sophomore (as of June 2025).
+Hey! I'm `Evan`, I am a highschool sophomore (as of August 2025).
 I'm currently dedicated to concepts in computer engineering, and semiconductor physics
 and devices.
 
@@ -12,10 +12,11 @@ and devices.
 
 ⏳ **Ongoing**:
   - `MOOCs` related to VLSI, and CMOS fabrication.
+  - `Discrete Structures` (Fall 2025)
+
 
 📆 **Upcoming**:
-  - `Discrete Structures` (Fall 2025)
-  - `Data Structures` (Spring 2026)
+- `Data Structures` (Spring 2026)
 
 ### Notable repos 💻
 - [**SimGDS**](https://github.com/evanliu-at-icstudents/simgds) -
@@ -28,7 +29,7 @@ and devices.
 ### Contact Info 💬
 ✉️ [personal.evanliu@gmail.com](mailto:personal.evanliu@gmail.com)
 
-### My top 3 skibidigmas 😼
+### My top 3
 🥇 [@scriptwriter101](https://github.com/scriptwriter101)  
 🥈 [@jaynouMa](https://github.com/jaynouMa)  
 🥉 [@tikkikkit21](https://github.com/tikkikkit21)
