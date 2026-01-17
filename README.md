@@ -21,6 +21,8 @@ and devices.
 - [**SimGDS**](https://github.com/evanliu-at-icstudents/simgds) -
   _Recreation of a core part of the LVS verification process_
 
+  <img src="output.png" alt="Console output" width="600"/>
+
 ### Contact Info 💬
 ✉️ [personal.evanliu@gmail.com](mailto:personal.evanliu@gmail.com)
 
