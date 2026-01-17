@@ -17,13 +17,9 @@ and devices.
     
 📆 **Upcoming**:
   - None
-### Notable repos 💻
+### Notable repo(s) 💻
 - [**SimGDS**](https://github.com/evanliu-at-icstudents/simgds) -
   _Recreation of a core part of the LVS verification process_
-  
-  <img src="output.png" alt="Console output" width="600"/>
-- [**AP Hug Wordle**](https://github.com/evanliu-at-icstudents/aphugwordle) -
-  _AP Human Geography final project_
 
 ### Contact Info 💬
 ✉️ [personal.evanliu@gmail.com](mailto:personal.evanliu@gmail.com)
